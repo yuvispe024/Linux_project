@@ -1,7 +1,7 @@
 # Open Source Audit - Git
 
-**Student Name:** Ankshit  
-**Registration Number:** 24BCE10454 
+**Student Name:**Yuvraj singh yadav  
+**Registration Number:** 24BCY10168
 **Course:** Open Source Software  
 **Software Chosen:** Git  
 
