@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Ankshit | Course: Open Source Software
+# Author: Yuvraj singh yadav | Course: Open Source Software
 PACKAGE=$1
 
 # Default to git if no package is provided
